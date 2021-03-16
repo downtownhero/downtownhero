@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **downtownhero/downtownhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+This is Vinayak Khanderia 20BCE10257 from CSE core.
+Love to learn and explore new things.
 
 Here are some ideas to get you started:
 
